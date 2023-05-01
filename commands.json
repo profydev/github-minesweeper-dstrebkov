@@ -2,7 +2,8 @@
   "commands": [
 	"clear H8",
 	"clear G7",
-  "clear G8",
-	"Flag H7"
+        "clear G8",
+	"flag H7",
+	"clear H6"
 ]
 }
